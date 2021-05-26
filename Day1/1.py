@@ -2,6 +2,7 @@
 print("Hello World")
 
 #Comment
-# For Singal- line comment
+
+# For Singal line comment
 ''' multiline
 comment'''
